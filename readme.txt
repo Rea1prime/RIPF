@@ -1,0 +1,1 @@
+This is a simple file that uses PowerShell to check all connected IP's using a filter to filter out every IP that doesnt start with 128.116
